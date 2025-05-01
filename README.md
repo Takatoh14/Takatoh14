@@ -6,7 +6,7 @@ I'm a freelance engineer.
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,vite,babel,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,vite,babel" />
 </p>
 
 ### 🛠️ Backend & DB
@@ -21,7 +21,7 @@ I'm a freelance engineer.
 
 ### 🧾 Others
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,ai,notion,wordpress,azure,aws,discord" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,ai,xd,notion,wordpress,azure,aws,discord" />
 </p>
 
 
