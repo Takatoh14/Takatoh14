@@ -6,17 +6,22 @@ I'm a freelance engineer.
 
 ### 🖥️ Frontend
 <p>
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,nodejs,mysql,docker,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,vite,babel,xd" />
 </p>
 
 ### 🛠️ Backend & DB
 <p>
-　<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,nodejs,mysql,docker,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,dotnet,nginx" />
 </p>
 
 ### 🧰 Tools
 <p>
-　　<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,nodejs,mysql,docker,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=docker,vscode,github,git,postman,npm,yarn,powershell,visualstudio,eclipse" />
+</p>
+
+### 🧾 Others
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,ai,notion,wordpress,azure,aws,discord" />
 </p>
 
 
