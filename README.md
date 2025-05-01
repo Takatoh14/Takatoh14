@@ -16,7 +16,7 @@ I'm a freelance engineer.
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,vscode,github,git,postman,npm,yarn,powershell,visualstudio,eclipse" />
+  <img src="https://skillicons.dev/icons?i=docker,vscode,github,git,postman,npm,yarn,powershell,visualstudio,eclipse,codepen" />
 </p>
 
 ### 🧾 Others
