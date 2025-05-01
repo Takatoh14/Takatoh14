@@ -6,8 +6,7 @@ I'm a freelance engineer.
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://skillicons.dev/icons?i=js,html,css,wasm)" width="40" />
 </p>
 
 ### 🛠️ Backend & DB
