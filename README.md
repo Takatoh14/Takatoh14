@@ -16,12 +16,12 @@ I'm a freelance engineer.
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,vscode,github,git,postman,npm,yarn,powershell,visualstudio,eclipse,codepen" />
+  <img src="https://skillicons.dev/icons?i=docker,vscode,github,git,postman,npm,powershell,visualstudio,eclipse,codepen" />
 </p>
 
 ### 🧾 Others
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,ai,xd,notion,wordpress,azure,aws,discord" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,ai,xd,notion,wordpress,discord" />
 </p>
 
 
